@@ -75,7 +75,9 @@ header{
 }
 
 article{
-    padding-left: 167px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
     padding-bottom:100px;
 }
 
